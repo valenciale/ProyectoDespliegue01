@@ -1,0 +1,7 @@
+Mi primer cambio para trastear en git
+
+Pasos para subir cambios:
+
+1) Hago un commit:    ->Team->Commit
+
+2) Hago Push:		->Team->Push to the Upstream
