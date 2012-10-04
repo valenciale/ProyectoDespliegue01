@@ -5,3 +5,6 @@ Pasos para subir cambios:
 1) Hago un commit:    ->Team->Commit
 
 2) Hago Push:		->Team->Push to the Upstream
+
+
+3/ Me cagon la puta esto tiene que desaparecer
